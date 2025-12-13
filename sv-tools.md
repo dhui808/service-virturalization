@@ -24,9 +24,3 @@ Create a service and simulation manually
 Create a service and simulation by importing from a OpenAPI specification
 Create a service and simulation by capturing real API traffic
 ```
-
-## Speedscale 
-[Supported Technology](https://docs.speedscale.com/reference/technology-support/)
-
-## Broadcom
-[Supported technology](https://www.broadcom.com/products/software/app-dev/service-virtualization)

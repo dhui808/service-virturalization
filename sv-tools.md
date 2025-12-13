@@ -29,4 +29,4 @@ Create a service and simulation by capturing real API traffic
 ```
 
 ## Speedscale 
-[Supported Tecnology](https://docs.speedscale.com/reference/technology-support/)
+[Supported Technology](https://docs.speedscale.com/reference/technology-support/)

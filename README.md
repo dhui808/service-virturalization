@@ -4,7 +4,7 @@ Service Virtualization solutions for various technologies/protocols.
     Azure Cosmos DB emulator
 ### Snowflake emulator
     LocalStack for Snowflake
-### SalesForce
+### Salesforce
     Authentication and authorization protocols: 
         OAuth 2.0
         SAML and OpenID Connect

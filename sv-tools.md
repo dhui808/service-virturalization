@@ -2,7 +2,8 @@
 ```
 Parasoft Virtualize
 WireMock
-Hoverfly: Hosted API Simulations and Mocking (SaaS). Use Behavior configuration to configure error responses and its occurrence probability.
+Hoverfly: Hosted API Simulations and Mocking (SaaS). Use Behavior configuration to configure error responses
+  and its occurrence probability.
 Mountebank
 Traffic Parrot
 Mainframe virtualization
@@ -14,7 +15,10 @@ Tricentis OSV (OmniStream Service Virtualization)
 Tricentis Tosca
 OpenText Service Virtualization Designer
 Broadcom Service Virtualization (CA Service Virtualization)
-Speedscale
+Speedscale: uses a special text string called a signature to differentiate between different requests. Once this
+  signature is generated, it is matched against the library of signatures generated from the previously recorded
+  traffic. If multiple requests have the same signature but different responses, Speedscale will cycle through
+  the responses in order. Signatures are essentially hash maps of key=value pairs.
 ```
 
 ## Create service virtualization
@@ -23,3 +27,6 @@ Create a service and simulation manually
 Create a service and simulation by importing from a OpenAPI specification
 Create a service and simulation by capturing real API traffic
 ```
+
+## Speedscale 
+[Supported Tecnology](https://docs.speedscale.com/reference/technology-support/)

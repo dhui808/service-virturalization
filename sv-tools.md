@@ -2,8 +2,7 @@
 ```
 Parasoft Virtualize
 WireMock
-Hoverfly: Hosted API Simulations and Mocking (SaaS). Use Behavior configuration to configure error responses
-  and its occurrence probability.
+Hoverfly
 Mountebank
 Traffic Parrot
 Mainframe virtualization

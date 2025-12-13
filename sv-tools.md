@@ -15,10 +15,7 @@ Tricentis OSV (OmniStream Service Virtualization)
 Tricentis Tosca
 OpenText Service Virtualization Designer
 Broadcom Service Virtualization (CA Service Virtualization)
-Speedscale: uses a special text string called a signature to differentiate between different requests. Once this
-  signature is generated, it is matched against the library of signatures generated from the previously recorded
-  traffic. If multiple requests have the same signature but different responses, Speedscale will cycle through
-  the responses in order. Signatures are essentially hash maps of key=value pairs.
+Speedscale
 ```
 
 ## Create service virtualization
